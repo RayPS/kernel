@@ -18,7 +18,7 @@ on:
         options:
           - unifreq
           - codesnas
-          - LeeSSXX
+          - rayps
       kernel_version:
         description: "Select kernel version"
         required: false
@@ -83,7 +83,7 @@ on:
           - -summer-growing
           - -autumn-harvesting
           - -winter-storing
-          - -yourname
+          - -rayps
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
